@@ -1,9 +1,9 @@
 # Alura-POO
 
-Este es un repositorio de práctica de programación orientada a objetos (POO) en Java. El objetivo es aprender los conceptos básicos de la POO, como las clases, los objetos, los atributos, los métodos, la herencia, el polimorfismo y la abstracción.
+This is a repository of Object Oriented Programming (OOP) practice in Java. The goal is to learn the basics of OOP, such as classes, objects, attributes, methods, inheritance, polymorphism, and abstraction.
 
-El repositorio contiene varias clases que representan entidades de un mini-banco, como cuentas, tarjetas, movimientos, clientes y empleados. También hay algunas clases que simulan datos de prueba, como paquetes y vehículos.
+The repository contains several classes that represent entities of a mini-bank, such as accounts, cards, transactions, customers, and employees. There are also some classes that simulate test data, such as packages and vehicles.
 
-Para ejecutar el código, se necesita tener instalado Java y un IDE como Eclipse o IntelliJ IDEA. El punto de entrada del programa es la clase Main, que crea algunos objetos de las clases del repositorio y muestra sus propiedades y comportamientos.
+To run the code, you need to have Java installed and an IDE like Eclipse or IntelliJ IDEA. The program's entry point is the Main class, which creates some objects from the repository classes and displays their properties and behaviors.
 
-Este repositorio es solo para fines educativos y no pretende ser un sistema bancario real.
+This repository is for educational purposes only and does not claim to be a real banking system.
